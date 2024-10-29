@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1>Volume control via manual gestures Using OpenCV and MediaPipe</h1>
+  <h1>"Volume control via manual gestures" using OpenCV and MediaPipe</h1>
   <img alt="output" src="images/output.gif" />
  </div>
 
